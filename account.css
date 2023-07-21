@@ -1,0 +1,56 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px; /* Adjust the spacing between the divs */
+  margin-top: 50px; /* Adjust the top margin as needed */
+}
+
+.div-box {
+  background-color: rgba(0, 0, 0, 0.2); /* Adjust the opacity and color */
+  color: black;
+  padding: 20px;
+  flex: 0 0 300px; /* Adjust the width of the divs as needed */
+  position: relative; /* Add position: relative to the div */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px; /* Adjust the gap between the buttons */
+  margin-top: 10px; /* Add margin-top to create spacing between the buttons and paragraphs */
+}
+
+.update-btn,
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.update-btn i,
+.delete-btn i {
+  color: #0000FF; /* Adjust the color for the buttons */
+}
+
+.delete-btn i {
+  color: red; /* Adjust the color for the delete button */
+}
+
+.logout-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Adjust the spacing between the divs and the button */
+}
+
+.logout-button button {
+  background-color: blue;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+ 
