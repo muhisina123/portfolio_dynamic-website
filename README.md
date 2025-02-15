@@ -24,13 +24,13 @@ This is a **portfolio website** that showcases my **skills, education, and servi
 ![Home Page](screenshots/homepage.png)
 
 ### sign up  form 
-![Booking Page](screenshots/booking.png)
+![Booking Page](https://github.com/muhisina123/portfolio_dynamic-website/blob/main/localhost_dynamic-website_form.php.png)
 
 ### log in form 
-![Booking Page](screenshots/booking.png)
+![Booking Page](https://github.com/muhisina123/portfolio_dynamic-website/blob/main/localhost_dynamic-website_login.php.png)
 
 ### User Profile
-![User Profile](screenshots/profile.png)
+![User Profile](https://github.com/muhisina123/portfolio_dynamic-website/blob/main/localhost_dynamic-website_account.php.png)
 
 
 ## 📂 Installation Guide
