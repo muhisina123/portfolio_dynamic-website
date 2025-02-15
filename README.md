@@ -21,7 +21,7 @@ This is a **portfolio website** that showcases my **skills, education, and servi
 ## 📸 Screenshots
 
 ### cv Page
-![Home Page](screenshots/homepage.png)
+![Home Page](https://github.com/muhisina123/portfolio_dynamic-website/blob/main/localhost_dynamic-website_index.php%20(1).png)
 
 ### sign up  form 
 ![Booking Page](https://github.com/muhisina123/portfolio_dynamic-website/blob/main/localhost_dynamic-website_form.php.png)
